@@ -8,7 +8,7 @@ from plotly import graph_objs as go
 Start = "2015-01-01"
 Today= date.today().strftime("%y-%m-%d")
 Today='20'+Today
-st.title("Stock Prediction Web APP by KASHIF")
+st.title("Stock Prediction Web APP by Arish and Raghuvir")
 
 stocks=("AAPL","GOOG","MSFT","GME","ITC")
 
